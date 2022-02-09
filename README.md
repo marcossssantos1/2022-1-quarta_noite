@@ -7,8 +7,7 @@ thiago.traue@uni9.pro.br
 ---
 
 ## Preparação do ambiente de desenvolvimento
-
-A preparação do ambiente de desenvolvimento é bastante simples, mas requer muita atenção
+preparação do ambiente de desenvolvimento é bastante simples, mas requer muita atenção
 
 Para preparar o ambiente de desenvolvimento, o professor, junto com a turma, montou um documento disponível [NESTE LINK](https://docs.google.com/document/d/1hiHuZm_bghn95xhtBBpJNTOiINMZrdsZNfVft5JIksQ/edit?usp=sharing)
 
